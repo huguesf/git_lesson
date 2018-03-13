@@ -1,8 +1,8 @@
-def square(x):
+def square(y):
 	""" This is some doc.
 	some more doc
 	"""
-	return x ** 2
+	return y ** 2
 
-print(square(5))
+print(square(52))
 
